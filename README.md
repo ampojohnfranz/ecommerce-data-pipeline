@@ -23,3 +23,11 @@ This project simulates a backend data architecture for an e-commerce platform. I
 2. Run `python import_data.py` to initialize the database.
 3. Run `uvicorn api:app --reload` to start the local server.
 4. Access the interactive Swagger UI at `http://127.0.0.1:8000/docs` to test endpoints.
+
+## Repository Contents
+* `api.py`: FastAPI server handling CRUD operations and routing.
+* `import_data.py`: Parses raw JSON and initializes the SQLite database.
+* `ecommerce.db`: The structured relational database.
+* `orders.json`: Raw payload simulation data.
+* `Sales_Operations_Dashboard.pbix`: Power BI dashboard connected to the backend for real-time KPI tracking.
+* `requirements.txt`: Python environment dependencies.
