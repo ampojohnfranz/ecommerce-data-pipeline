@@ -1,0 +1,12 @@
+[
+  {"order_id": "ORD-5001", "date": "2026-05-28", "customer": "Alex Mercer", "sku": "HOKA-SPEED3-M10", "category": "Footwear", "quantity": 1, "unit_price": 160.00, "status": "Shipped"},
+  {"order_id": "ORD-5002", "date": "2026-05-28", "customer": "Sarah Vance", "sku": "GARMIN-INSTINCT-2", "category": "Electronics", "quantity": 1, "unit_price": 299.99, "status": "Processing"},
+  {"order_id": "ORD-5003", "date": "2026-05-28", "customer": "Marcus Thorne", "sku": "NUTRITION-GEL-PACK", "category": "Consumables", "quantity": 4, "unit_price": 24.50, "status": "Shipped"},
+  {"order_id": "ORD-5004", "date": "2026-05-29", "customer": "Elena Rostova", "sku": "HOKA-SPEED3-W08", "category": "Footwear", "quantity": 1, "unit_price": 160.00, "status": "Pending"},
+  {"order_id": "ORD-5005", "date": "2026-05-29", "customer": "James Dalton", "sku": "HYDRATION-VEST-PRO", "category": "Gear", "quantity": 1, "unit_price": 115.00, "status": "Shipped"},
+  {"order_id": "ORD-5006", "date": "2026-05-29", "customer": "James Dalton", "sku": "SOFT-FLASK-500ML", "category": "Gear", "quantity": 2, "unit_price": 18.00, "status": "Shipped"},
+  {"order_id": "ORD-5007", "date": "2026-05-30", "customer": "Priya Patel", "sku": "GARMIN-HRM-PRO", "category": "Electronics", "quantity": 1, "unit_price": 129.99, "status": "Processing"},
+  {"order_id": "ORD-5008", "date": "2026-05-30", "customer": "Tom Weaver", "sku": "NUTRITION-GEL-PACK", "category": "Consumables", "quantity": 2, "unit_price": 24.50, "status": "Canceled"},
+  {"order_id": "ORD-5009", "date": "2026-05-30", "customer": "Mia Wong", "sku": "HOKA-CHALLENGER-M09", "category": "Footwear", "quantity": 1, "unit_price": 145.00, "status": "Shipped"},
+  {"order_id": "ORD-5010", "date": "2026-05-30", "customer": "David Kim", "sku": "RECOVERY-SLIDE-M11", "category": "Footwear", "quantity": 1, "unit_price": 50.00, "status": "Shipped"}
+]
